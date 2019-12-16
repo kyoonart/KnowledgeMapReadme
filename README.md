@@ -1,2 +1,7 @@
-# KnowledgeMapReadme
-XUPT Knowledge Map Readme 
+# README
+本仓库用于同步团队成员在实践过程中的知识沉淀。
+
+## TODO: 目录
+
+
+
